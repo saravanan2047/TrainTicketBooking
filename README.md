@@ -1,7 +1,4 @@
-Here’s a detailed README file for the Train Booking System Java console application:
-
 ---
-
 # Train Booking System
 
 ## Overview
@@ -99,7 +96,4 @@ Contributions are welcome! Feel free to fork the repository, submit pull request
 ## License
 
 This project is open-source and available under the MIT License.
-
 ---
-
-This README provides a detailed overview of the project, highlighting its features, design patterns, data structures, and OOP concepts used, giving viewers a deep insight into the project. Let me know if you need any more information or additional sections!
